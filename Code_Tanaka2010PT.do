@@ -4,6 +4,7 @@ Risk and time preferences: Linking experimental and household survey data from V
 American economic review, 100(1), 557-571.*/
 
 **Code Created by Alexis Villacis
+**Email: alexis.villacis@asu.edu 
 
 ** program setup
 **Code Created by Alexis Villacis
