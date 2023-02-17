@@ -1,5 +1,5 @@
-Stata code for estimating the Prospect Theory Risk Preference Parameters of: 
-*Tanaka, T., Camerer, C. F., & Nguyen, Q. (2010). Risk and time preferences: Linking experimental and household survey data from Vietnam. American economic review, 100(1), 557-571.
+Stata code for estimating Prospect Theory Risk Preference Parameters as presented in: 
+Tanaka, T., Camerer, C. F., & Nguyen, Q. (2010). Risk and time preferences: Linking experimental and household survey data from Vietnam. American economic review, 100(1), 557-571.
 
 Code Created by Alexis Villacis
 
