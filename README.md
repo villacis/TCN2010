@@ -32,7 +32,7 @@ If you benefit from this code, make sure to cite these papers that motivated me 
 
 Note 3:
 
-Feel free to reach out to me at: alexis.villacis@asu.edu if you have any questions or find any bugs.
+Feel free to reach out to me at: villacis.9@osu.edu if you have any questions or find any bugs.
 
 Thank you!!!
 
